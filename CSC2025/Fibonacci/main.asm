@@ -8,14 +8,16 @@ extern _ReadConsoleA@20: near
 
 .data
 
-	n   dword   ?
-	previous   dword   1
-	current   dword   1
-	next   dword   0
+	n   dword   21 ; the nth term
+	previous   dword   1 ; the previous number
+	current   dword   1 ; the current number
+	next   dword   0 ; the sum of previous and current
+	
 
 .code
 main PROC near
 _main:
+		
 		; Fibonacci
 		_loop:
 			mov ebx, n
@@ -26,7 +28,7 @@ _main:
 			mov ebx, current
 			mov previous, ebx
 			mov current, eax
-			cmp eax, 13
+			cmp eax, n
 			jl _loop
 
 
