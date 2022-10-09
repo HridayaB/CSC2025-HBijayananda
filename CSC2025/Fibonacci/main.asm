@@ -16,6 +16,7 @@ extern _ReadConsoleA@20: near
 .code
 main PROC near
 _main:
+		; Fibonacci
 		_loop:
 			mov ebx, n
 			mov eax, previous
