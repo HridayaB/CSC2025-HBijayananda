@@ -1,3 +1,2 @@
-﻿main.obj : error LNK2001: unresolved external symbol _WriteConsole@4
-main.obj : error LNK2001: unresolved external symbol _readConsole@4
-C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\Debug\MASM.exe : fatal error LNK1120: 2 unresolved externals
+﻿  Assembling main.asm...
+  MASM.vcxproj -> C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\Debug\MASM.exe
