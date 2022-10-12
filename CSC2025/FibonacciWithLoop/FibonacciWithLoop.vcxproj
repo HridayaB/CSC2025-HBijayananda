@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1de4fbc4-6186-408a-a5c8-ced573236b0e}</ProjectGuid>
-    <RootNamespace>Fibonacci</RootNamespace>
+    <ProjectGuid>{f1dfca4b-25d6-4bde-8c49-556a345dcf0b}</ProjectGuid>
+    <RootNamespace>FibonacciWithLoop</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>FibonacciWithJmp</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
