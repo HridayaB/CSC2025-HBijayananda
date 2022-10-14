@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CallingFunctions", "Calling
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FibonacciWithLoop", "FibonacciWithLoop\FibonacciWithLoop.vcxproj", "{F1DFCA4B-25D6-4BDE-8C49-556A345DCF0B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Echo", "Echo\Echo.vcxproj", "{AF3125D6-9318-4695-8363-D93F4A491DED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{F1DFCA4B-25D6-4BDE-8C49-556A345DCF0B}.Release|x64.Build.0 = Release|x64
 		{F1DFCA4B-25D6-4BDE-8C49-556A345DCF0B}.Release|x86.ActiveCfg = Release|Win32
 		{F1DFCA4B-25D6-4BDE-8C49-556A345DCF0B}.Release|x86.Build.0 = Release|Win32
+		{AF3125D6-9318-4695-8363-D93F4A491DED}.Debug|x64.ActiveCfg = Debug|x64
+		{AF3125D6-9318-4695-8363-D93F4A491DED}.Debug|x64.Build.0 = Debug|x64
+		{AF3125D6-9318-4695-8363-D93F4A491DED}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF3125D6-9318-4695-8363-D93F4A491DED}.Debug|x86.Build.0 = Debug|Win32
+		{AF3125D6-9318-4695-8363-D93F4A491DED}.Release|x64.ActiveCfg = Release|x64
+		{AF3125D6-9318-4695-8363-D93F4A491DED}.Release|x64.Build.0 = Release|x64
+		{AF3125D6-9318-4695-8363-D93F4A491DED}.Release|x86.ActiveCfg = Release|Win32
+		{AF3125D6-9318-4695-8363-D93F4A491DED}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,7 +8,7 @@ extern _ReadConsoleA@20: near
 
 .data
 
-	n   dword   13 ; the nth term
+	n   dword   10 ; the nth term
 	i   dword   3 ; accumilator
 	previous   dword   1 ; the previous number
 	current   dword   1 ; the current number
@@ -31,9 +31,10 @@ _main:
 			mov current, eax
 			add i, 1
 			cmp ecx, i
-			jge _loop
-
-
+			jl _endloop
+			loop _loop
+			
+		_endLoop:
 	push  0
 	call  _ExitProcess@4
 
