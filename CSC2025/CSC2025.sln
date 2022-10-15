@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FibonacciWithLoop", "Fibona
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Echo", "Echo\Echo.vcxproj", "{AF3125D6-9318-4695-8363-D93F4A491DED}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CallingPrintLine", "CallingPrintLine\CallingPrintLine.vcxproj", "{CE9B1ED5-5150-4D66-9477-A215BA05AAFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{AF3125D6-9318-4695-8363-D93F4A491DED}.Release|x64.Build.0 = Release|x64
 		{AF3125D6-9318-4695-8363-D93F4A491DED}.Release|x86.ActiveCfg = Release|Win32
 		{AF3125D6-9318-4695-8363-D93F4A491DED}.Release|x86.Build.0 = Release|Win32
+		{CE9B1ED5-5150-4D66-9477-A215BA05AAFA}.Debug|x64.ActiveCfg = Debug|x64
+		{CE9B1ED5-5150-4D66-9477-A215BA05AAFA}.Debug|x64.Build.0 = Debug|x64
+		{CE9B1ED5-5150-4D66-9477-A215BA05AAFA}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE9B1ED5-5150-4D66-9477-A215BA05AAFA}.Debug|x86.Build.0 = Debug|Win32
+		{CE9B1ED5-5150-4D66-9477-A215BA05AAFA}.Release|x64.ActiveCfg = Release|x64
+		{CE9B1ED5-5150-4D66-9477-A215BA05AAFA}.Release|x64.Build.0 = Release|x64
+		{CE9B1ED5-5150-4D66-9477-A215BA05AAFA}.Release|x86.ActiveCfg = Release|Win32
+		{CE9B1ED5-5150-4D66-9477-A215BA05AAFA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

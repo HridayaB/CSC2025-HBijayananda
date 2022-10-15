@@ -11,8 +11,8 @@ extern _ReadConsoleA@20: near
 ohandle dword ?
 rhandle dword ?
 written dword ?
-msg1 byte 'Input: ', 10
-msg2 byte 'Output: ', 10
+msg1 byte 'Input: ',0
+msg2 byte 'Output: ', 0
 charArray byte 0, 32
 
 .code
