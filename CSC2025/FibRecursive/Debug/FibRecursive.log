@@ -1,0 +1,41 @@
+﻿  Assembling main.asm...
+  fibrecurse.asm
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(1,2): error C2059: syntax error: 'user-defined literal'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(4,21): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(5,22): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(5,2): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(5,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(5,23): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(6,23): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(6,2): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(6,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(5,26): error C2086: 'int near': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(4): message : see declaration of 'near'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(6,24): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(7,22): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(7,2): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(7,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(6,27): error C2086: 'int near': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(4): message : see declaration of 'near'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(7,23): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(9,2): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(9,2): error C3484: syntax error: expected '->' before the return type
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(9,3): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(11,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(7,26): error C2086: 'int near': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(4): message : see declaration of 'near'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(9,3): error C2146: syntax error: missing ';' before identifier 'data'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(12,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(12,2): error C2146: syntax error: missing ';' before identifier 'previous'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(12,38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(12,29): error C2146: syntax error: missing ';' before identifier 'previous'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(13,36): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(13,24): error C2086: 'int the': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(12): message : see declaration of 'the'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(13,28): error C2146: syntax error: missing ';' before identifier 'current'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(14,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(14,21): error C2086: 'int the': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(12): message : see declaration of 'the'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(14,25): error C2146: syntax error: missing ';' before identifier 'sum'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(21,3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\FibRecursive\fibrecurse.asm(20,8): error C2146: syntax error: missing ';' before identifier 'ebp'

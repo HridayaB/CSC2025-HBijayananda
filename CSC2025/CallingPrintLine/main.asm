@@ -35,24 +35,32 @@ _PrintLine:
 	push ebp
 	mov ebp, esp
 	sub esp, 4
-	push eax
 
 	mov eax, [ ebp + 8 ]
 	add [ ebp - 4 ], eax
 	add eax, [ ebp - 4 ]
 
+	mov ebx, -1
+	mov edx, offset msg
+	_loop:
+		add		ebx, 1
+		mov		al, [edx]
+		add		edx, 1
+		cmp		al, 0
+	jnz _loop
 
-	; WriteConsole ( ohandle, &msg [ 0 ], 13, &written, 0 )
+
+	; WriteConsole ( ohandle, &msg [ 0 ], ebx, &written, 0 )
 	push  0
 	push  offset written
-	push  13
+	push  ebx
 	push  offset msg
 	push  ohandle
 	call  _WriteConsoleA@20
 
-	pop eax
-	mov esp, ebp
-	pop ebp
+	mov		eax, written ;eax has the number of characters written
+	mov		esp, ebp
+	pop		ebp
 	ret 4
 
 PrintLine ENDP

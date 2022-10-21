@@ -8,7 +8,7 @@ extern _ReadConsoleA@20: near
 
 .data
 
-	n   dword   6 ; the nth term
+	n   dword   5 ; the nth term
 	i   dword   2 ; accumilator
 	previous   dword   0 ; the previous number
 	current   dword   1 ; the current number
@@ -20,8 +20,9 @@ main PROC near
 _main:
 		
 		; Fibonacci
+		mov ecx, n
 		_loop:
-			mov ecx, n
+			
 			mov eax, previous
 			add eax, current
 			mov next, eax
