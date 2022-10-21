@@ -31,7 +31,7 @@ _main:
 			mov current, eax
 			add i, 1
 			cmp ecx, i
-			jl _endloop ; jmp condition used to exit loop and not for the loop itself
+			jl _exitloop ; jmp condition used to exit loop and not for the loop itself
 			loop _loop
 			
 		_exitLoop:

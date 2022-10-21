@@ -8,9 +8,9 @@ extern _ReadConsoleA@20: near
 
 .data
 
-	n   dword   21 ; the nth term
-	i   dword   3 ; accumilator
-	previous   dword   1 ; the previous number
+	n   dword   6 ; the nth term
+	i   dword   2 ; accumilator
+	previous   dword   0 ; the previous number
 	current   dword   1 ; the current number
 	next   dword   0 ; the sum of previous and current
 	
