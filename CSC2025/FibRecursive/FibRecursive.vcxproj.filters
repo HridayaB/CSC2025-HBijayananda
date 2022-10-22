@@ -18,10 +18,8 @@
     <MASM Include="main.asm">
       <Filter>Source Files</Filter>
     </MASM>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="fibrecurse.asm">
+    <MASM Include="..\..\..\source\repos\CSC2025-HBijayananda\CSC2025\MASM\fibrecurse.asm">
       <Filter>Source Files</Filter>
-    </ClCompile>
+    </MASM>
   </ItemGroup>
 </Project>

@@ -130,10 +130,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <MASM Include="..\..\..\source\repos\CSC2025-HBijayananda\CSC2025\MASM\fibrecurse.asm" />
     <MASM Include="main.asm" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="fibrecurse.asm" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
