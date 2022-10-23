@@ -18,7 +18,7 @@
     <MASM Include="main.asm">
       <Filter>Source Files</Filter>
     </MASM>
-    <MASM Include="..\..\..\source\repos\CSC2025-HBijayananda\CSC2025\MASM\fibrecurse.asm">
+    <MASM Include="..\MASM\fibrecurse.asm">
       <Filter>Source Files</Filter>
     </MASM>
   </ItemGroup>
