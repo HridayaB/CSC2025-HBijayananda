@@ -20,7 +20,6 @@ _fibrecurse :
 
 push	ebp
 mov		ebp, esp
-sub		esp, 4
 
 mov		eax, previous
 add		eax, current
@@ -39,7 +38,7 @@ _exitrecurse :
 
 mov		esp, ebp
 pop		ebp
-ret 
+ret 4
 
 fibrecurse ENDP
 END
