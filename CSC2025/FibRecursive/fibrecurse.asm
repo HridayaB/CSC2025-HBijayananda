@@ -8,10 +8,9 @@ extern _ReadConsoleA@20: near
 
 .data
 
-i			dword   0; accumilator
 previous	dword   1; the previous number
-current		dword   0; the current number
-next		dword   0; the sum of previousand current
+current		dword   1; the current number
+sum			dword   0; the sum of the previous and current
 
 .code
 
@@ -21,24 +20,27 @@ _fibrecurse :
 push	ebp
 mov		ebp, esp
 
+cmp		ecx, 2
+jle		_exitRecurse
+
 mov		eax, previous
 add		eax, current
-mov		next, eax
+mov		sum, eax
 
 mov		ebx, current
 mov		previous, ebx
 mov		current, eax
-add		i, 1
-cmp		ecx, i
-je		_exitrecurse
-push	ecx
+
+dec		ecx
+
+push	eax
 call	fibrecurse
 
-_exitrecurse :
+_exitRecurse:
 
 mov		esp, ebp
 pop		ebp
-ret 4
+ret		1
 
 fibrecurse ENDP
 END

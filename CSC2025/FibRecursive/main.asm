@@ -9,7 +9,7 @@ extern fibrecurse: near
 
 .data
 
-n			dword   5 ; the nth term
+n			dword   5; the nth term
 
 .code
 main PROC near
