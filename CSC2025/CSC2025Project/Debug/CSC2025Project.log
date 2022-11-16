@@ -1,0 +1,140 @@
+﻿  Assembling ..\Echo\main.asm...
+  Assembling test.asm...
+  readline.asm
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(1,1): error C2059: syntax error: 'user-defined literal'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(4,20): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(5,21): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(5,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(5,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(5,22): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(5,22): error C2059: syntax error: 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(6,22): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(6,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(6,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(5,25): error C2086: 'int near': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(4,24): message : see declaration of 'near'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(6,23): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(6,23): error C2059: syntax error: 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(7,21): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(7,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(7,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(6,27): error C2086: 'int near': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(4,24): message : see declaration of 'near'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(7,22): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(7,22): error C2059: syntax error: 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(9,1): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(9,1): error C3484: syntax error: expected '->' before the return type
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(9,2): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(11,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(7,26): error C2086: 'int near': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(4,24): message : see declaration of 'near'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(9,2): error C2146: syntax error: missing ';' before identifier 'data'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(20,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\readline.asm(19,10): error C2146: syntax error: missing ';' before identifier 'ENDP'
+  itoa.asm
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(1,1): error C2059: syntax error: 'user-defined literal'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(4,20): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(5,21): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(5,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(5,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(5,22): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(5,22): error C2059: syntax error: 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(6,22): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(6,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(6,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(5,25): error C2086: 'int near': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(4,24): message : see declaration of 'near'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(6,23): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(6,23): error C2059: syntax error: 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(7,21): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(7,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(7,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(6,27): error C2086: 'int near': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(4,24): message : see declaration of 'near'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(7,22): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(7,22): error C2059: syntax error: 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(9,1): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(9,1): error C3484: syntax error: expected '->' before the return type
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(9,2): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(11,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(7,26): error C2086: 'int near': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(4,24): message : see declaration of 'near'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(9,2): error C2146: syntax error: missing ';' before identifier 'data'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(20,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\itoa.asm(19,6): error C2146: syntax error: missing ';' before identifier 'ENDP'
+  atoi.asm
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(1,1): error C2059: syntax error: 'user-defined literal'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(4,20): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(5,21): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(5,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(5,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(5,22): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(5,22): error C2059: syntax error: 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(6,22): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(6,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(6,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(5,25): error C2086: 'int near': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(4,24): message : see declaration of 'near'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(6,23): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(6,23): error C2059: syntax error: 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(7,21): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(7,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(7,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(6,27): error C2086: 'int near': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(4,24): message : see declaration of 'near'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(7,22): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(7,22): error C2059: syntax error: 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(9,1): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(9,1): error C3484: syntax error: expected '->' before the return type
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(9,2): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(10,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(7,26): error C2086: 'int near': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(4,24): message : see declaration of 'near'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(9,2): error C2146: syntax error: missing ';' before identifier 'data'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(17,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\atoi.asm(16,6): error C2146: syntax error: missing ';' before identifier 'ENDP'
+  writeline.asm
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(1,1): error C2059: syntax error: 'user-defined literal'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(4,20): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(5,21): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(5,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(5,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(5,22): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(5,22): error C2059: syntax error: 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(6,22): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(6,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(6,23): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(5,25): error C2086: 'int near': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(4,24): message : see declaration of 'near'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(6,23): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(6,23): error C2059: syntax error: 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(7,21): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(7,1): error C2144: syntax error: 'int' should be preceded by ';'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(7,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(6,27): error C2086: 'int near': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(4,24): message : see declaration of 'near'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(7,22): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(7,22): error C2059: syntax error: 'constant'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(9,1): error C3927: '->': trailing return type is not allowed after a non-function declarator
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(9,1): error C3484: syntax error: expected '->' before the return type
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(9,2): error C3613: missing return type after '->' ('int' assumed)
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(12,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(7,26): error C2086: 'int near': redefinition
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(4,24): message : see declaration of 'near'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(9,2): error C2146: syntax error: missing ';' before identifier 'data'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(16,2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(15,7): error C2146: syntax error: missing ';' before identifier 'ebp'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(26,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(26,8): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(33,26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(33,19): error C2065: 'ohandle': undeclared identifier
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(33,29): error C2065: 'msg': undeclared identifier
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(33,40): error C2065: 'ebx': undeclared identifier
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(33,46): error C2065: 'written': undeclared identifier
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(33,17): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(33,17): message : The initializer contains too many elements
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(34,2): error C2146: syntax error: missing ';' before identifier 'push'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(39,22): error C2018: unknown character '0x40'
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(41,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\HRBCR\CSC2025-HBijayananda\CSC2025\CSC2025Project\writeline.asm(41,25): error C2146: syntax error: missing ';' before identifier 'has'
+  Generating Code...

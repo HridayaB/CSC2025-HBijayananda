@@ -8,10 +8,6 @@ extern _ReadConsoleA@20: near
 
 .data
 
-previous	dword   1; the previous number
-current		dword   1; the current number
-sum			dword   0; the sum of the previous and current
-
 .code
 
 fibrecurse PROC near
@@ -19,28 +15,38 @@ _fibrecurse :
 
 push	ebp
 mov		ebp, esp
+sub		esp, 4
+push	esi
 
-cmp		ecx, 2
-jle		_exitRecurse
+mov		eax, [ ebp + 8 ]
 
-mov		eax, previous
-add		eax, current
-mov		sum, eax
+cmp		eax, 2
+jg		_exitRecurse1
+jl		_exitRecurse2
 
-mov		ebx, current
-mov		previous, ebx
-mov		current, eax
+mov		eax, 1
+mov		esp, ebp
+pop		ebp
+ret
 
-dec		ecx
+_exitRecurse1:
 
+dec		eax
 push	eax
 call	fibrecurse
 
-_exitRecurse:
+mov		[ ebp - 4 ], eax
+dec		dword	ptr [ esp ]
+call	fibrecurse
+
+add		esp, 4
+add		eax, [ ebp - 4 ]
+
+_exitRecurse2:
 
 mov		esp, ebp
 pop		ebp
-ret		1
+ret	
 
 fibrecurse ENDP
 END
