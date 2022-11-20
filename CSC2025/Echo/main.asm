@@ -40,7 +40,7 @@ _main:
 	; ReadConsole ( rhandle, &msg [ 0 ], ?, &written, 0 )
 	push 0
 	push offset written
-	push 100
+	push 5
 	push offset msg1
 	push rhandle
 	call _ReadConsoleA@20

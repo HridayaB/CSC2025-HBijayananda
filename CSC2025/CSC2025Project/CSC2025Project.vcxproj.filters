@@ -15,25 +15,20 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <MASM Include="test.asm">
+    <MASM Include="main.asm">
       <Filter>Source Files</Filter>
     </MASM>
-    <MASM Include="..\Echo\main.asm">
+    <MASM Include="writeLine.asm">
       <Filter>Source Files</Filter>
     </MASM>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="writeline.asm">
+    <MASM Include="readLine.asm">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="readline.asm">
+    </MASM>
+    <MASM Include="aToI.asm">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="itoa.asm">
+    </MASM>
+    <MASM Include="iToA.asm">
       <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="atoi.asm">
-      <Filter>Source Files</Filter>
-    </ClCompile>
+    </MASM>
   </ItemGroup>
 </Project>
