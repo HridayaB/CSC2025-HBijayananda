@@ -21,7 +21,6 @@ _itoa:
 
 	add		ecx, 11
 	mov		edx, 0
-	mov		[ ecx ], dl
 	mov		eax, ebx 
 
 	_division:
