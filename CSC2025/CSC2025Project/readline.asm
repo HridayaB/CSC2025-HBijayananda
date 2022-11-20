@@ -15,7 +15,6 @@ readLine PROC near
 _readLine:
 	push	ebp
 	mov		ebp, esp
-	sub		esp, 12
 
 	; rhandle = GetStdHandle ( -10 )
 	push	-10
